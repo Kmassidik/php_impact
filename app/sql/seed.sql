@@ -1,0 +1,1 @@
+INSERT INTO materi (name_materi, content) VALUES ('New Materi Name', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.');
